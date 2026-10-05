@@ -16,6 +16,8 @@ namespace RefactoringExercise
             //4- Hantera errors. Informera om fel och/eller skapa kod som inte crashar.
             //5- Ge feedback till användaren. Om den skriver fel ska den få veta varför.
             
+
+            //Någopt
             int answer = -1;
 
             while (answer != 0)
